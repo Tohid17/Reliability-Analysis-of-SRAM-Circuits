@@ -14,6 +14,10 @@ This project studies five SRAM cell architectures:
 - 9T SRAM
 - 10T SRAM
 
+
+### 6T SRAM Schematic
+
+![6T SRAM Schematic](schematics/6T_SRAM_schematic.png)
 The schematic diagrams are available in the [schematics folder](schematics/).
 
 ## Design Methodology
