@@ -53,13 +53,13 @@ Simulation results for the 6T, 7T, 8T, 9T and 10T SRAM architectures are availab
 ## Physical Layouts
 The physical layouts of the five SRAM architectures were designed using Cadence Virtuoso Layout XL.
 
-The layout images are available here:
 
-- [View all SRAM physical layouts](layouts/)
 - ### 6T SRAM Physical Layout
 
 ![6T SRAM Layout](layouts/6T_SRAM_layout.png)
+The layout images are available here:
 
+- [View all SRAM physical layouts](layouts/)
 ## Tools and Technology
 
 ## Repository Structure
