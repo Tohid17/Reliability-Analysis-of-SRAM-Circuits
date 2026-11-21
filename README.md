@@ -32,7 +32,14 @@ The design process involved:
 - Design Rule Check (DRC) and Layout Versus Schematic (LVS) verification.
   
 ## Stability Analysis
-[Representative image]
+The stability of the SRAM architectures was evaluated using Static Noise Margin (SNM).
+
+The analysis includes:
+- Hold Static Noise Margin (HSNM)
+- Read Static Noise Margin (RSNM)
+- Butterfly curves for SRAM stability evaluation
+
+The stability diagrams and butterfly curves are available in the [stability folder](stability/).
 
 ## Simulation Results
 [Representative image]
