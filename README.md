@@ -42,7 +42,13 @@ The analysis includes:
 The stability diagrams and butterfly curves are available in the [stability folder](stability/).
 
 ## Simulation Results
-[Representative image]
+This project analyzes the three operating modes of SRAM cells:
+
+- Read operation
+- Write operation
+- Hold operation
+
+Simulation results for the 6T, 7T, 8T, 9T and 10T SRAM architectures are available in the [simulation_results folder](simulation_results/).
 
 ## Physical Layouts
 [Representative image]
