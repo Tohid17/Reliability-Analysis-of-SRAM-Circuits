@@ -51,7 +51,11 @@ This project analyzes the three operating modes of SRAM cells:
 Simulation results for the 6T, 7T, 8T, 9T and 10T SRAM architectures are available in the [simulation_results folder](simulation_results/).
 
 ## Physical Layouts
-[Representative image]
+The physical layouts of the five SRAM architectures were designed using Cadence Virtuoso Layout XL.
+
+The layout images are available here:
+
+- [View all SRAM physical layouts](layouts/)
 
 ## Tools and Technology
 
