@@ -62,6 +62,11 @@ The layout images are available here:
 - [View all SRAM physical layouts](layouts/)
 ## Tools and Technology
 
+- **Technology:** 180 nm CMOS
+- **EDA Tool:** Cadence Virtuoso
+- **Layout Tool:** Cadence Virtuoso Layout XL
+- **Analysis:** Read, Write, Hold and Static Noise Margin (SNM)
+- **Verification:** DRC and LVS
 ## Repository Structure
 
 ## Detailed Documentation
