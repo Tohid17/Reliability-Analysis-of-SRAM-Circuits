@@ -71,3 +71,9 @@ The layout images are available here:
 
 ## Detailed Documentation
 [Links to all images and results]
+
+## Project Report
+
+For detailed project documentation, methodology and results, refer to the original project report:
+
+[View SRAM Project Report (PDF)](SRAM_Project_Report.pdf)
