@@ -69,6 +69,9 @@ The layout images are available here:
 - **Verification:** DRC and LVS
 - 
 ## Repository Structure
+
+
+```text
 Reliability-Analysis-of-SRAM-Circuits/
 ├── schematics/
 ├── stability/
@@ -77,6 +80,7 @@ Reliability-Analysis-of-SRAM-Circuits/
 ├── docs/
 ├── SRAM_Project_Report.pdf
 └── README.md
+```
 
 ## Detailed Documentation
 - [SRAM Schematics](schematics/)
