@@ -67,7 +67,16 @@ The layout images are available here:
 - **Layout Tool:** Cadence Virtuoso Layout XL
 - **Analysis:** Read, Write, Hold and Static Noise Margin (SNM)
 - **Verification:** DRC and LVS
+- 
 ## Repository Structure
+Reliability-Analysis-of-SRAM-Circuits/
+├── schematics/
+├── stability/
+├── simulation_results/
+├── layouts/
+├── docs/
+├── SRAM_Project_Report.pdf
+└── README.md
 
 ## Detailed Documentation
 [Links to all images and results]
