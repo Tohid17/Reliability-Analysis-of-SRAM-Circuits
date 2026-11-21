@@ -22,6 +22,15 @@ The schematic diagrams are available in the [schematics folder](schematics/).
 
 ## Design Methodology
 
+The SRAM cell architectures (6T, 7T, 8T, 9T and 10T) were designed and analyzed using Cadence Virtuoso.
+
+The design process involved:
+- Schematic design of each SRAM architecture.
+- Read, write and hold operation analysis.
+- Stability analysis using Static Noise Margin (SNM).
+- Physical layout design using Cadence Layout XL.
+- Design Rule Check (DRC) and Layout Versus Schematic (LVS) verification.
+  
 ## Stability Analysis
 [Representative image]
 
