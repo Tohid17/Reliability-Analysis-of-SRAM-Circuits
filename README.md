@@ -67,7 +67,7 @@ The layout images are available here:
 - **Layout Tool:** Cadence Virtuoso Layout XL
 - **Analysis:** Read, Write, Hold and Static Noise Margin (SNM)
 - **Verification:** DRC and LVS
-- 
+
 ## Repository Structure
 
 
