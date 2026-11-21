@@ -56,6 +56,9 @@ The physical layouts of the five SRAM architectures were designed using Cadence 
 The layout images are available here:
 
 - [View all SRAM physical layouts](layouts/)
+- ### 6T SRAM Physical Layout
+
+![6T SRAM Layout](layouts/6T_SRAM_layout.png)
 
 ## Tools and Technology
 
